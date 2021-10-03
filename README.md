@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 <p align="left">
-  <a href="https://twitter.com/blackbeauty19771120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blackbeauty19771120" height="30" width="40" /></a>
+  <a href="https://twitter.com/blacky19771120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blacky19771120" height="30" width="40" /></a>
   <a href="https://kaggle.com/takuji.sano+kaggle@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="takuji.sano+kaggle@gmail.com" height="30" width="40" /></a>
   <a href="https://qiita.com/takuji-sano" target="blank">Qiita</a> | 
   <a href="https://signate.jp/profile" target="blank">SIGNATE</a>
