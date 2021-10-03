@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takuji-sano&label=Profile%20views&color=0e75b6&style=flat" alt="takuji-sano" /></p>
-<p align="left"> <a href="https://twitter.com/takuji_sano" target="blank"><img src="https://img.shields.io/twitter/follow/takuji_sano?logo=twitter&style=for-the-badge" alt="takuji_sano" /></a> </p>
+<p align="left"> <a href="https://twitter.com/blacky19771120" target="blank"><img src="https://img.shields.io/twitter/follow/blacky19771120?logo=twitter&style=for-the-badge" alt="blacky19771120" /></a> </p>
 
 ### References:
 I used the Youtube channel "<a href="https://www.youtube.com/watch?v=ejCUxSfXgxs">Subham Raoniar</a>" as a reference.
